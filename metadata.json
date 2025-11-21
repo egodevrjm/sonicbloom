@@ -1,0 +1,5 @@
+{
+  "name": "Sonic Bloom",
+  "description": "A multi-sensory song analyzer powered by Gemini 3. Upload an MP3 or enter a song name to generate a visual and emotional profile.",
+  "requestFramePermissions": []
+}
